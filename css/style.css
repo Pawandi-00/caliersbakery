@@ -1,17 +1,4 @@
-/*
-
-Template 2107 New Spot
-
-http://www.tooplate.com/view/2107-new-spot
-
-COLOR CODES
-
-	Primary (Pink):   #CC0064
-	Secondary (Blue): #0095BF
-  
-*/
-
-* {
+{
   margin: 0;
   padding: 0;
 }
@@ -42,7 +29,7 @@ body {
 
 .tm-section-1 {
   height: 750px;
-  background-image: url(../img/spot-bg-01.jpg);
+  background-image: url(/img/spot-bg-01.jpg);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
@@ -53,7 +40,7 @@ body {
 
 .tm-section-3 {
   height: 790px;
-  background-image: url(../img/spot-bg-02.jpg);
+  background-image: url(/img/spot-bg-02.jpg);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
