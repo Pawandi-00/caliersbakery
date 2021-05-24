@@ -27,7 +27,7 @@ body {
   margin-bottom: 30px;
 }
 
-.tm-section-1 {
+.section-1 {
   height: 750px;
   background-image: url(/img/spot-bg-01.jpg);
   background-size: cover;
@@ -38,7 +38,7 @@ body {
   padding-top: 75px;
 }
 
-.tm-section-3 {
+.section-3 {
   height: 790px;
   background-image: url(/img/spot-bg-02.jpg);
   background-size: cover;
